@@ -18,7 +18,7 @@ Le problème du voyageur de commerce (TSP - Traveling Salesman Problem) est un p
 Tournée testée sur 6 adresses autour de Rennes :
 - Temps total estimé : **[à compléter avec ton résultat]** min
 - Distance totale : **[à compléter avec ton résultat]** km
-- Carte interactive : [`results/tournee.html`](results/tournee.html) *(à ouvrir dans un navigateur)*
+- Carte interactive : [voir la carte] (https://htmlpreview.github.io/?https://github.com/kelian-esnoult/Optimisation-de-tourn-e-de-livraison-TSP-/blob/main/tournee.html)
 
 ## Limites
 
