@@ -16,8 +16,8 @@ Le problème du voyageur de commerce (TSP - Traveling Salesman Problem) est un p
 ## Résultats
 
 Tournée testée sur 6 adresses autour de Rennes :
-- Temps total estimé : **[à compléter avec ton résultat]** min
-- Distance totale : **[à compléter avec ton résultat]** km
+- Temps total estimé : 134.1 min
+- Distance totale : 99.07 km
 - Carte interactive : [voir la carte] https://kelian-esnoult.github.io/tournee-livraison-optimisee/tournee.html
 
 
