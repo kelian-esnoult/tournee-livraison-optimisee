@@ -29,8 +29,8 @@ C'est pour cette raison structurelle (et non par manque d'optimisation du code) 
 ## Résultats
 
 Tournée testée sur 30 adresses réelles autour de Rennes (Ille-et-Vilaine) :
-- Temps total estimé : **[à compléter avec ton résultat]** minutes
-- Distance totale : **[à compléter avec ton résultat]** km
+- Temps total estimé : 390.0 minutes
+- Distance totale : 376.01 km
 - Carte interactive : **[lien GitHub Pages à insérer une fois généré, voir plus bas]**
 
 ## Limites
